@@ -1,6 +1,6 @@
 # Tobii Pro Glasses 3 - MATLAB Real-time Interface
 
-This project provides a MATLAB-based interface for the Tobii Pro Glasses 3.  
+This project is a real-time interface designed to integrate the Tobii Pro Glasses 3 wearable eye tracker with MATLAB environment.  
 
 ## Prerequisites  
 
@@ -215,4 +215,3 @@ Contains the pixel coordinates of the 4 screen corners (ArUco Markers) for every
     Pixel_X = GazeX * 1920
     Pixel_Y = GazeY * 1080
     ```  
-# Tobii_g3_Matlab_realtime_interface
